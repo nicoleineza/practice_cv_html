@@ -1,0 +1,13 @@
+body {
+    background-color: transparent;
+    font-family: Verdana;
+    font-size: 8.5pt;
+    margin: 40px 40px 40px 40px;
+}
+
+.parallel {
+    display: flex;
+    justify-content: space-between;
+}
+
+.color_red{color:red;font-weight:bold}
